@@ -39,6 +39,9 @@ The top city is Ravencrest having the most customers and generating the most rev
 POSSIBLE OUTCOMES:
 
 •	Cheese Pizzas seem to be the least popular of all. They should either be taken off the menu or be modified with added ingredients to make it more appealing.
+
 •	Combo Offers may be provided for Medium/Small pizzas to increase orders.
+
 •	Desserts also seem to perform quite poorly. More appetizing desserts may be added to the menu to provide customers with a satisfactory finish to their meals.
+
 •	The city of Ravencrest seems to be the only city with a considerable customer base. The Pizzeria may indulge in promotional activities to acquire more customers in other cities to drive up orders.
