@@ -4,13 +4,16 @@
 
 
 OVERVIEW
+
 This analysis provides insights into the sales performance of a pizzeria by leveraging SQL to extract key metrics from the database. The analysis examines various aspects of the business, including revenue trends, best-selling pizzas, customer preferences, and peak sales periods. By analyzing sales data, we can identify patterns that influence profitability and operational efficiency.
 
 BUSINESS OBJECTIVE
+
 The objective of this analysis is to optimize the pizzeria’s sales strategy by identifying high-performing products, understanding customer purchasing behaviour, and recognizing trends that impact revenue. The findings will help in making data-driven decisions regarding menu optimization, pricing adjustments, and targeted marketing efforts to maximize profitability and enhance customer satisfaction.
 
 
 KEY FINDINGS:
+
 Most revenue generated:
 Donair Pizza contributes to the most revenue in that category, while Chicken Wings leads in Sides and Dr.Pepper in Beverages. 
 
